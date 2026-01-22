@@ -9,6 +9,9 @@
         <module name="exchenge-service" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="exchenge-service" target="21" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
